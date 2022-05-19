@@ -72,7 +72,6 @@ group :test do
 end
 
 gem 'bulma-rails'
-gem 'simple_form'
 gem 'devise'
 gem 'gravatar_image_tag'
 gem 'carrierwave'
